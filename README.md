@@ -7,6 +7,9 @@ CARD APP API SERVICE
 Para realizar todos os passos a seguir é necessário acessar o diretório /card_app via terminal
 </strong>
 </p>
+## Docs
+
+Toda a documentação ficará disponível no endpoint <strong>/api/docs</strong>
 
 <br />
 
@@ -31,6 +34,4 @@ O projeto ficará disponível na porta 5000, certifique-se de que a porta não e
 
 <br/>
 
-## Docs
 
-Toda a documentação ficará disponível no endpoint <strong>/api/docs</strong>
